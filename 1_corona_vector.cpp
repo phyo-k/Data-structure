@@ -1,5 +1,3 @@
-201923220 김효정
-
 #include<iostream>
 #include<string>
 

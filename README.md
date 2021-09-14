@@ -1,6 +1,6 @@
 # Data-structure
 --------------------------------------------------------------------------
-Data structure task in University class.
+Data structure tasks in University class.
 ### 1. Vector : corona_vector.cpp
  - 국가, 코로나 확진자 수, 사망자 수, 사망 비율을 vector로 삽입, 수정, 삭제
 ### 2. Linkedlist : corona_linkedlist.cpp
